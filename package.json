@@ -1,0 +1,19 @@
+{
+  "name": "orders-mock-server",
+  "version": "1.0.0",
+  "description": "Mock server for purchasing orders",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Julián Absatz <julianabsatz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.3",
+    "swagger-jsdoc": "^3.2.3",
+    "swagger-ui-express": "^4.0.1"
+  },
+  "devDependencies": {}
+}
